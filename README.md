@@ -40,5 +40,6 @@ console.log(simple);
 .selector {
         width: 100px;
 }
-```
+```[Стандарты Яндекс.Практикума по оформлению HTML и CSS кода.pdf](https://github.com/BaturinSS/first-project/files/8375207/HTML.CSS.pdf)
+
 

@@ -9,6 +9,10 @@ Alt-H1
 ------
 [Стандарты Яндекс.Практикума по оформлению HTML и CSS кода.pdf](https://github.com/BaturinSS/first-project/files/8375210/HTML.CSS.pdf)
 https://img4.goodfon.ru/original/4232x3456/d/c0/niderlandy-ulitsa-netherlands-street.jpg
+
+
+![niderlandy-ulitsa-netherlands-street](https://user-images.githubusercontent.com/94468513/160713282-d08bd8a2-909d-4cc4-a054-199a2b48e584.jpg)
+
 Курсив это *звёздочки* или _подчёркивания_.
 
 Полужирный шрифт — двойные **звёздочки** или __подчёркивание__.

@@ -7,6 +7,7 @@
 
 Alt-H1
 ------
+[Стандарты Яндекс.Практикума по оформлению HTML и CSS кода.pdf](https://github.com/BaturinSS/first-project/files/8375210/HTML.CSS.pdf)
 
 Курсив это *звёздочки* или _подчёркивания_.
 
